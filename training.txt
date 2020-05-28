@@ -1,0 +1,21 @@
+
+
+
+This line will be cherry picked to line 12 during the training
+
+
+
+Will this line will be used to create a merge conflict? Stay tuned...
+
+
+
+
+
+
+
+
+This line will be changed to demonstrate staging a change
+
+
+
+Add a tab at the beginning of this line
