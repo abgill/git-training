@@ -14,7 +14,7 @@ Will this line will be used to create a merge conflict? Stay tuned...
 
 
 
-This line will be changed to demonstrate staging a change
+This line will be changed to demonstrate staging a change!
 
 
 
